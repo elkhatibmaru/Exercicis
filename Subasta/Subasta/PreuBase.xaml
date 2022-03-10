@@ -1,0 +1,23 @@
+﻿<Window x:Class="Subasta.PreuBase"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Subasta"
+        mc:Ignorable="d"
+        Title="Preu Base" Height="450" Width="800" Background="#E7FBBE">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <TextBlock Text="Nom Article" Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="40" Background="#FFFDDE"/>
+        <TextBox x:Name="txtNomArticle" FontSize="35" Grid.Row="1" Margin="20" Background="#FFFDDE"/>
+        <TextBlock Text="Preu Minim" Grid.Row="2" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="40" Background="#FFFDDE"/>
+        <TextBox x:Name="txtPreuMinim" FontSize="35" Grid.Row="3" Margin="20" Background="#FFFDDE"/>
+        <Button Content="Tanca" x:Name="btnTanca" Click="btnTanca_Click" Background="#FFFDDE" Grid.Row="4" Margin="20" FontSize="25"/>
+    </Grid>
+</Window>
