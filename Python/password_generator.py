@@ -1,6 +1,5 @@
-from operator import le
 import random
-from ssl import _PasswordType
+
 
 print("--Generador de Contrasenyes--")
 
