@@ -1,0 +1,17 @@
+C:\Users\elkha\source\repos\Parelles\Parelles\obj\Debug\Parelles.csprojAssemblyReference.cache
+C:\Users\elkha\source\repos\Parelles\Parelles\obj\Debug\MainWindow.g.cs
+C:\Users\elkha\source\repos\Parelles\Parelles\obj\Debug\App.g.cs
+C:\Users\elkha\source\repos\Parelles\Parelles\obj\Debug\Parelles_MarkupCompile.cache
+C:\Users\elkha\source\repos\Parelles\Parelles\obj\Debug\Parelles_MarkupCompile.lref
+C:\Users\elkha\source\repos\Parelles\Parelles\obj\Debug\Puzzle.g.cs
+C:\Users\elkha\source\repos\Parelles\Parelles\bin\Debug\Parelles.exe.config
+C:\Users\elkha\source\repos\Parelles\Parelles\bin\Debug\Parelles.exe
+C:\Users\elkha\source\repos\Parelles\Parelles\bin\Debug\Parelles.pdb
+C:\Users\elkha\source\repos\Parelles\Parelles\obj\Debug\MainWindow.baml
+C:\Users\elkha\source\repos\Parelles\Parelles\obj\Debug\Puzzle.baml
+C:\Users\elkha\source\repos\Parelles\Parelles\obj\Debug\Parelles.g.resources
+C:\Users\elkha\source\repos\Parelles\Parelles\obj\Debug\Parelles.Properties.Resources.resources
+C:\Users\elkha\source\repos\Parelles\Parelles\obj\Debug\Parelles.csproj.GenerateResource.cache
+C:\Users\elkha\source\repos\Parelles\Parelles\obj\Debug\Parelles.csproj.CoreCompileInputs.cache
+C:\Users\elkha\source\repos\Parelles\Parelles\obj\Debug\Parelles.exe
+C:\Users\elkha\source\repos\Parelles\Parelles\obj\Debug\Parelles.pdb
