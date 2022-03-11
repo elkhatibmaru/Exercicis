@@ -1,6 +1,9 @@
 #Cerca nativa: Escaneja tota la llista i pregunta si es igual al target
 #Si es igual, retorna el index
 #Si no es igual, llavors retorna -1
+import string
+
+
 def cerca_nativa(l,target):
     for i in range(len(l)):
         if l[i]==target:
@@ -28,8 +31,12 @@ def cerca_binaria(l, target,inferior=None,superior=None):
         return cerca_binaria(l,target,intermig+1,superior)
 
 
+array = [4,9,1,0,5,6]
+x=5
 
-if __name__=="_main__":
-    #Terminar codi
+resultat = cerca_binaria(array,x,0, len(array)-1)
 
-    print("y")
+if resultat !=-1:
+    print("L'element es present al index "+ str(resultat))
+else:
+    print("No trobat")
