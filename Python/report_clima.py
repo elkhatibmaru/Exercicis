@@ -1,7 +1,7 @@
 import requests
 from pprint import pprint
 
-API_KEY="b5e7ad155547d12410bf149a768b5a1d"
+API_KEY="Introduiex una Api KEY:"
 
 latitut = input("Introdueix una latitud: ")
 longitud = input("Introdueix una longitud: ")
